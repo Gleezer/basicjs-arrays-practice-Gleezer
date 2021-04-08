@@ -57,17 +57,25 @@ console.log("Exercise Four");
 // - Then log the modified array to the console.
 
 // *****  the wording on this is very confusing I am going on the idea that 
-// i am being asked to add a new name to the array
+// i am being asked to add a new name to the array for the first one.
 
+//let names = []; // Don't modify this line.
+//let index = 2
+// Write your code here 👇
+//names = ['Cole','Stan','Sekiro','US Agent','Outrider']
+//console.log(index)
+//index = 'The Joker'
+//names.push(index)
+//console.log(names)
 
+//this version ouputs the item in the array
 let names = []; // Don't modify this line.
-let index = 2
+let index = 3
 // Write your code here 👇
 names = ['Cole','Stan','Sekiro','US Agent','Outrider']
-console.log(index)
-index = 'The Joker'
-names.push(index)
 console.log(names)
+console.log(names[index])
+
 
 //console.log(names[names.length - 2])
 // ----------------------------------------------------------------------------------------------

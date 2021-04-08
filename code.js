@@ -55,15 +55,21 @@ console.log("Exercise Four");
 // - Log that array to the console.
 // - Using the index variable, assign a new name to the given index.
 // - Then log the modified array to the console.
+
+// *****  the wording on this is very confusing I am going on the idea that 
+// i am being asked to add a new name to the array
+
+
 let names = []; // Don't modify this line.
-let index = 'The Joker';
+let index = 2
 // Write your code here 👇
 names = ['Cole','Stan','Sekiro','US Agent','Outrider']
-console.log(names)
+console.log(index)
+index = 'The Joker'
 names.push(index)
 console.log(names)
 
-
+//console.log(names[names.length - 2])
 // ----------------------------------------------------------------------------------------------
 console.log("Exercise Five");
 // Concatenating an array

@@ -25,7 +25,7 @@
       "setup": "",
       "run": "node code.js",
       "input": "",
-      "output": "Exercise Three\\n\\[ \"white\", \"blue\", \"black\", \"red\", \"green\" \\]\\n5",
+      "output": "Exercise Three\\n\\[ 'white', 'blue', 'black', 'red', 'green' \\]\\n5",
       "comparison": "regex",
       "timeout": 10,
       "points": null

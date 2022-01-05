@@ -25,7 +25,27 @@
       "setup": "",
       "run": "node code.js",
       "input": "",
-      "output": "Exercise Three\\n\\[ 'white', 'blue', 'black', 'red', 'green' \\]\\n5",
+      "output": "Exercise Three\\n\\[ '.+', '.+', '.+', '.+', '.+' \\]\\n5",
+      "comparison": "regex",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Arrays Activity Exercise 4",
+      "setup": "",
+      "run": "node code.js",
+      "input": "",
+      "output": "Exercise Four\\n\\[ 'James', 'Jean-Luc', 'Benjamin', 'Kathryn', 'Jonathan' \\]\\n\\[ 'James', 'Jean-Luc', '.+', 'Kathryn', 'Jonathan' \\]",
+      "comparison": "regex",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Arrays Activity Exercise 5",
+      "setup": "",
+      "run": "node code.js",
+      "input": "",
+      "output": "Exercise Five\\n\\[ 'This', 'will', 'make', 'a', 'combined', 'array.' \\]",
       "comparison": "regex",
       "timeout": 10,
       "points": null
